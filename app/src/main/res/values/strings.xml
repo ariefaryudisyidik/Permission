@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionSample</string>
+    <string name="load_image_from_internet">Load Image from Internet</string>
+    <string name="request_permission_location">Request Permission Location</string>
+</resources>
